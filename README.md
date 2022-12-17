@@ -134,3 +134,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/103303021/207079638-a54e56f8-f158-4ff2-b4f2-38488e78fa43.png)
+
+
+##### GPT-3를 활용한 챗봇이다. 퓨샷 러닝을 사용했다.
