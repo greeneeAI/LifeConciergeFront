@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/110643793/211143978-993c951e-1bfd-435d-9339-6a0147ead76d.png)
 # 그리니.AI
 ## `라이프 컨시어지 서비스` 
 
@@ -5,7 +6,6 @@
 #### 사용자의 성향, 일정 정보를 파악한 AI가 적절한 서비스 추천, 알림을 제공한다.
 
 ##### `사용 기술: React, Node.js, MySQL, GPT-3 등`
-
 
 
 
