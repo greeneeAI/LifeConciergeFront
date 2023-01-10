@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/110643793/211143978-993c951e-1bfd-435d-9339-6a0147ead76d.png)
+## https://greenee.netlify.app/
 # 그리니.AI
+![image](https://user-images.githubusercontent.com/110643793/211143978-993c951e-1bfd-435d-9339-6a0147ead76d.png)
 ## `라이프 컨시어지 서비스` 
 
 #### 바쁜 현대인을 위한 인공지능 비서!
@@ -138,3 +139,4 @@
 
 
 ##### GPT-3를 활용한 챗봇이다. 퓨샷 러닝을 사용했다.
+https://www.youtube.com/watch?v=u9G-cFaJxx0&t=165s
